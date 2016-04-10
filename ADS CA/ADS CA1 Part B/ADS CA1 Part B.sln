@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADS CA1 Part B", "ADS CA1 Part B\ADS CA1 Part B.vcxproj", "{5382A6CB-A004-423C-AECD-8D7FB448FD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Debug|x64.ActiveCfg = Debug|x64
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Debug|x64.Build.0 = Debug|x64
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Debug|x86.Build.0 = Debug|Win32
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Release|x64.ActiveCfg = Release|x64
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Release|x64.Build.0 = Release|x64
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Release|x86.ActiveCfg = Release|Win32
+		{5382A6CB-A004-423C-AECD-8D7FB448FD1E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://adermenji.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ADS\u0020CA1\u0020Part\u0020B\\ADS\u0020CA1\u0020Part\u0020B.vcxproj
+		SccProjectName1 = ADS\u0020CA1\u0020Part\u0020B
+		SccLocalPath1 = ADS\u0020CA1\u0020Part\u0020B
+	EndGlobalSection
+EndGlobal
